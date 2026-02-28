@@ -1,0 +1,40 @@
+{
+  "name": "Bumor Café - Más que un café",
+  "short_name": "Bumor Café",
+  "description": "Sistema completo de gestión para Bumor Café: ventas, inventario, gastos, cuentas por cobrar y reportes",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E4D3D",
+  "theme_color": "#1E4D3D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "finance"],
+  "lang": "es-CO",
+  "dir": "ltr"
+}
